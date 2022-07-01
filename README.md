@@ -41,19 +41,19 @@ npm link @digital-boss/n8n-nodes-starter
 # Start n8n
 npx n8n
 ```
-# Latest functionality
+## Latest functionality
 
 Displayed the package version in the node description. For reference, you can check [genversion](https://www.npmjs.com/package/genversion).
 
-# Contribution
+## Contribution
 
 To make this node even better, please let us know, [how you use it](mailto:info@digital-north-consulting.com). Commits are always welcome.
 
-# Issues
+## Issues
 
 If you have any issues, please [let us know on GitHub](https://github.com/digital-boss/n8n-nodes-starter/issues).
 
-# About
+## About
 
 Special thanks to [N8n nodemation](https://n8n.io) workflow automation by Jan Oberhauser.
 
@@ -63,7 +63,4 @@ This node was updated with ❤️ by Valentina Lilova [valentina98](https://gith
 
 ## License
 
-[Apache 2.0 with Commons Clause](https://github.com/n8n-io/n8n/blob/master/packages/nodes-base/LICENSE.md)
-
-
-
+[MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md)
